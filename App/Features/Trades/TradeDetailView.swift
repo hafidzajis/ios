@@ -129,7 +129,7 @@ struct TradeDetailView: View {
                 HStack {
                     Text(fill.action == .open ? "OPEN" : "CLOSE")
                         .font(.caption2.weight(.bold))
-                        .foregroundStyle(fill.action == .open ? .blue : .orange)
+                        .foregroundStyle(fill.action == .open ? Color.blue : Color.orange)
                         .frame(width: 48, alignment: .leading)
                     VStack(alignment: .leading) {
                         Text("\(Fmt.plain(fill.quantity)) @ \(Fmt.plain(fill.price))").monospacedDigit()

@@ -118,7 +118,7 @@ struct TradeEditorView: View {
             }
             LabeledContent("Reward : risk") {
                 Text(metrics.plannedRewardRatio.map { "1 : \(Fmt.decimal($0))" } ?? "—")
-                    .foregroundStyle(metrics.plannedRewardRatio == nil ? .secondary : .primary)
+                    .foregroundStyle(metrics.plannedRewardRatio == nil ? Color.secondary : Color.primary)
             }
         } header: {
             Text("Plan")
