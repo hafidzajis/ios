@@ -1,0 +1,5 @@
+{"data":[
+ {"currency_code":"USD","unit":1,"rate":{"date":"2024-01-02","buying_rate":4.6000,"selling_rate":4.6100,"middle_rate":4.605}},
+ {"currency_code":"USD","unit":1,"rate":{"date":"2024-01-03","buying_rate":4.6100,"selling_rate":4.6200,"middle_rate":4.615}},
+ {"currency_code":"USD","unit":1,"rate":{"date":"2024-01-05","buying_rate":4.6660,"selling_rate":4.6700,"middle_rate":4.683}}
+],"meta":{"quote":"rm","total_result":3}}

@@ -1,0 +1,3 @@
+{"retCode":0,"retMsg":"OK","result":{"nextPageCursor":"","category":"spot","list":[
+  {"symbol":"ETHUSDT","orderType":"Market","underlyingPrice":"","orderLinkId":"","side":"Buy","indexPrice":"","orderId":"1400000000000000001","stopOrderType":"","leavesQty":"0","execTime":"1704067200000","feeCurrency":"ETH","isMaker":false,"execFee":"0.0001","feeRate":"0.001","execId":"2100000000000000001","tradeIv":"","blockTradeId":"","markPrice":"","execPrice":"2300.5","markIv":"","orderQty":"0.1","orderPrice":"2310","execValue":"230.05","closedSize":"","execType":"Trade","seq":1,"execQty":"0.1"}
+]}}

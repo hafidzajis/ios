@@ -1,0 +1,3 @@
+[
+  {"symbol":"BTCUSDT","id":698759,"orderId":25851813,"side":"SELL","price":"42500.5","qty":"0.100","realizedPnl":"12.3456","marginAsset":"USDT","quoteQty":"4250.05","commission":"1.70002","commissionAsset":"USDT","time":1704240000000,"positionSide":"BOTH","buyer":false,"maker":false}
+]

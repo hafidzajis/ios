@@ -1,0 +1,12 @@
+<FlexQueryResponse queryName="Trades" type="AF">
+<FlexStatements count="1">
+<FlexStatement accountId="U1234567" fromDate="20240101" toDate="20240131" period="LastMonth" whenGenerated="20240201;120000">
+<Trades>
+<Trade accountId="U1234567" currency="USD" assetCategory="STK" symbol="AAPL" tradeID="1001" ibOrderID="9001" dateTime="20240102;093015" buySell="BUY" quantity="10" tradePrice="185.50" ibCommission="-1.00" ibCommissionCurrency="USD" levelOfDetail="EXECUTION" />
+<Trade accountId="U1234567" currency="USD" assetCategory="STK" symbol="AAPL" tradeID="1002" ibOrderID="9002" dateTime="20240103;101500" buySell="SELL" quantity="-10" tradePrice="190.25" ibCommission="-1.05" ibCommissionCurrency="USD" levelOfDetail="EXECUTION" />
+<Trade accountId="U1234567" currency="USD" assetCategory="OPT" symbol="AAPL  240119C00190000" tradeID="1003" ibOrderID="9003" dateTime="20240103;111500" buySell="BUY" quantity="1" tradePrice="3.20" ibCommission="-0.65" ibCommissionCurrency="USD" levelOfDetail="EXECUTION" />
+<Trade accountId="U1234567" currency="USD" assetCategory="CRYPTO" symbol="BTC" tradeID="1004" ibOrderID="9004" tradeDate="20240104" tradeTime="120000" buySell="BUY" quantity="0.01" tradePrice="43000" ibCommission="-0.75" ibCommissionCurrency="USD" levelOfDetail="EXECUTION" />
+</Trades>
+</FlexStatement>
+</FlexStatements>
+</FlexQueryResponse>
